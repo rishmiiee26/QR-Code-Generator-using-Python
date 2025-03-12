@@ -31,3 +31,11 @@ python qr_generator.py
 Enter text or URL in the input field.
 Click "Generate QR Code".
 The QR code will display instantly with a success message
+
+📋 Requirements
+
+Python 3.10 or above
+Libraries:
+qrcode
+PIL (Pillow)
+Tkinter (comes with Python by default)
