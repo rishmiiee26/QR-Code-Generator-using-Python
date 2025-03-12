@@ -26,7 +26,7 @@ pip install qrcode pillow
 4. Run the Application
 python qr_generator.py
 
-📋 Requirements
+## 📋 Requirements
 
 >>Python 3.10 or above
 Libraries:
@@ -34,7 +34,7 @@ Libraries:
 *PIL (Pillow)
 *Tkinter (comes with Python by default)
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here's how you can contribute:
 Fork the Repository
@@ -43,7 +43,7 @@ Commit Changes (git commit -m "Add new feature")
 Push to Branch (git push origin feature-name)
 Create a Pull Request
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Rishmita Tamuli
 💬 Feel free to connect and collaborate!
