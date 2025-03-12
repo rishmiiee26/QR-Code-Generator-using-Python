@@ -18,12 +18,16 @@ A sleek, modern QR code generator built using **Python** with **Tkinter** for GU
    git clone https://github.com/yourusername/QR-Code-Generator.git
    cd QR-Code-Generator
 2. Create and Activate a Virtual Environment
+```bash
 python3 -m venv venv
 source venv/bin/activate   # For MacOS/Linux
 .\venv\Scripts\activate    # For Windows
+
+
+
 3. Install Dependencies
 pip install qrcode pillow
-4. Run the Application
+5. Run the Application
 python qr_generator.py
 
 ## 📋 Requirements
