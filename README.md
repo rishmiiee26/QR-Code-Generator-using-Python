@@ -34,8 +34,8 @@ The QR code will display instantly with a success message
 
 📋 Requirements
 
-Python 3.10 or above
+>>Python 3.10 or above
 Libraries:
-qrcode
-PIL (Pillow)
-Tkinter (comes with Python by default)
+*qrcode
+*PIL (Pillow)
+*Tkinter (comes with Python by default)
