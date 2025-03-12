@@ -33,3 +33,17 @@ Libraries:
 *qrcode
 *PIL (Pillow)
 *Tkinter (comes with Python by default)
+
+🤝 Contributing
+
+Contributions are welcome! Here's how you can contribute:
+Fork the Repository
+Create a New Branch (git checkout -b feature-name)
+Commit Changes (git commit -m "Add new feature")
+Push to Branch (git push origin feature-name)
+Create a Pull Request
+
+🧑‍💻 Author
+
+Rishmita Tamuli
+💬 Feel free to connect and collaborate!
